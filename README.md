@@ -4,7 +4,7 @@
    * https://amp.dev/about/how-amp-works/
    * https://amp.dev/support/faq/
 
-* amp-basic.html
+* (amp-basic.html)
 ```
 <!DOCTYPE html>
 <!--
