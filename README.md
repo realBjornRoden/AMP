@@ -1,4 +1,3 @@
-
 * To add the tag `#development=1` after the URL for debugging in Crome with the AMP extension (such as `http://0.0.0.0/#development=1`)
    * https://search.google.com/structured-data/testing-tool
    * https://amp.dev/documentation/guides-and-tutorials/start/create/basic_markup/
