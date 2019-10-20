@@ -1,3 +1,4 @@
+# A simple template for building HTML pages to leverage Google AMP
 * To add the tag `#development=1` after the URL, for debugging in Crome with the AMP extension
    * https://search.google.com/structured-data/testing-tool
    * https://amp.dev/documentation/guides-and-tutorials/start/create/basic_markup/
